@@ -1,5 +1,6 @@
 ﻿using System.Data.SqlClient;
 using Dapper;
+using DapperCrud.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DapperCrud.Controllers
